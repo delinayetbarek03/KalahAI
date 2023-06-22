@@ -1,6 +1,11 @@
 # KalahAI
 
-From Wikipedia:
+This is a Kalah board game for 2 players which can be human players or played against AI's: BadPlayer AI and SmartPlayer AI. The SmartPlayer makes strategic moves through the usage of a game tree and heuristics. I utilized the minimax algorithm for my program to search the game tree so that it finds what it considers to be the best, valid play available. 
+
+
+
+
+Wikipedia:
 Kalah, also called Kalaha or Mancala, is a game in the mancala family imported in the United States by William Julius Champion, Jr. in 1940. This game is sometimes also called "Kalahari", possibly by false etymology from the Kalahari desert in Namibia.
 
 As the most popular and commercially available variant of mancala in the West, Kalah is also sometimes referred to as Warri or Awari, although those names more properly refer to the game Oware.
